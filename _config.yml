@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Isa
+title: isabel
 
 # Your name to show in the footer
 author: ice1345
@@ -14,7 +14,7 @@ author: ice1345
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about-ice"
+  About Me: "about-i"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
