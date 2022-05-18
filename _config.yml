@@ -41,11 +41,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  #facebook:
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -61,8 +61,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0002-8794-8464
+  google-scholar: https://scholar.google.com/citations?user=4u6LXGoAAAAJ&hl=de&oi=ao
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -97,7 +97,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "robots,human-centered design,assistive technology,healthcare,user research"
 
 # --- Colours / background image --- #
 
